@@ -100,29 +100,6 @@ mongod --dbpath YOUR_PATH
 
 ---
 
-## 📁 Project Structure
-
-```
-smart-attendance-capture/
-├── frontend/
-│   ├── index.html
-│   ├── login.html
-│   └── styles/
-├── backend/
-│   ├── app.js
-│   ├── routes/
-│   ├── models/
-├── Py-Scripts/
-│   ├── app.py
-│   ├── recognizer.py
-│   └── attendance_logger.py
-├── dataset/
-│   └── [User images]
-├── attendance/
-│   └── [Excel sheets]
-```
-
----
 
 ## 📦 Output
 
@@ -137,13 +114,13 @@ smart-attendance-capture/
 > Replace image links with your actual hosted screenshots
 
 * Homepage
-  ![Homepage](https://your-link/homepage.png)
+<img width="1842" height="854" alt="Image" src="https://github.com/user-attachments/assets/b076bee1-9254-46c2-a184-fb27f09a33ef" />
 
 * Face Detected
   ![Face Detected](https://your-link/face_detected.png)
 
 * Unknown Face
-  ![Unknown Face](https://your-link/unknown.png)
+  <img width="967" height="716" alt="Image" src="https://github.com/user-attachments/assets/d80839a4-dcef-46ec-a627-2607d531819f" />
 
 * Excel Output
   ![Excel](https://your-link/excel_output.png)
@@ -162,9 +139,4 @@ smart-attendance-capture/
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you'd like this as a downloadable file (`README.md`), or if I should help you generate hosted image links or automate deployment with Vercel/GitHub Pages.
 ```
