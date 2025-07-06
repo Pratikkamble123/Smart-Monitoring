@@ -1,9 +1,6 @@
-Thanks! Here's the **updated `README.md` format** with your **Prerequisites and Installation instructions** correctly included and organized:
-
----
 
 ````markdown
-# 📸 Smart Attendance Capture
+# 📸 Smart Attendance Monitoring System
 
 A face recognition-based smart attendance monitoring system developed using **OpenCV**, **Python**, and **Machine Learning**, featuring a web interface for teachers and students. The system recognizes registered faces from a webcam stream and logs attendance automatically.
 
@@ -58,7 +55,7 @@ npm install npm@latest -g
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/staticshreyas/Attendance-Portal.git
+git clone https://github.com/Pratikkamble123/Attendance-Portal.git
 cd Attendance-Portal
 ```
 
@@ -117,13 +114,13 @@ mongod --dbpath YOUR_PATH
 <img width="1842" height="854" alt="Image" src="https://github.com/user-attachments/assets/b076bee1-9254-46c2-a184-fb27f09a33ef" />
 
 * Face Detected
-  ![Face Detected](https://your-link/face_detected.png)
+ <img width="868" height="700" alt="Image" src="https://github.com/user-attachments/assets/65abe693-d575-406b-873f-d74fef21eff5" />
 
 * Unknown Face
   <img width="967" height="716" alt="Image" src="https://github.com/user-attachments/assets/d80839a4-dcef-46ec-a627-2607d531819f" />
 
 * Excel Output
-  ![Excel](https://your-link/excel_output.png)
+  <img width="1009" height="398" alt="Image" src="https://github.com/user-attachments/assets/2dadb0c3-7af6-41ac-bb3a-f89fcc75938c" />
 
 ---
 
