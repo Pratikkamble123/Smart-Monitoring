@@ -108,7 +108,7 @@ mongod --dbpath YOUR_PATH
 
 ## 🖥️ Screenshots
 
-> Replace image links with your actual hosted screenshots
+
 
 * Homepage
 <img width="1842" height="854" alt="Image" src="https://github.com/user-attachments/assets/b076bee1-9254-46c2-a184-fb27f09a33ef" />
