@@ -1,10 +1,7 @@
 
-````markdown
 # 📸 Smart Attendance Monitoring System
 
 A face recognition-based smart attendance monitoring system developed using **OpenCV**, **Python**, and **Machine Learning**, featuring a web interface for teachers and students. The system recognizes registered faces from a webcam stream and logs attendance automatically.
-
----
 
 ## 🌐 Project Overview
 
@@ -20,7 +17,6 @@ The Smart Attendance Capture system automates attendance by recognizing faces in
 - 🚫 Unknown Face Detection
 - 🌐 Web Interface
 
----
 
 ## 🧰 Tech Stack
 
@@ -31,8 +27,6 @@ The Smart Attendance Capture system automates attendance by recognizing faces in
 | Face Recog. | Python, OpenCV, face_recognition  |
 | Database    | MongoDB                           |
 | Reporting   | Pandas, OpenPyXL                  |
-
----
 
 ## ⚙️ Prerequisites
 
@@ -57,7 +51,6 @@ npm install npm@latest -g
 ```bash
 git clone https://github.com/Pratikkamble123/Attendance-Portal.git
 cd Attendance-Portal
-```
 
 ### 2. Install Node.js Packages (from root)
 
@@ -122,7 +115,6 @@ mongod --dbpath YOUR_PATH
 * Excel Output
   <img width="1009" height="398" alt="Image" src="https://github.com/user-attachments/assets/2dadb0c3-7af6-41ac-bb3a-f89fcc75938c" />
 
----
 
 ## ✍️ Author
 
@@ -130,10 +122,8 @@ mongod --dbpath YOUR_PATH
 📧 [dpratikkamble@gmail.com](mailto:dpratikkamble@gmail.com)
 🌐 [LinkedIn](https://linkedin.com/in/pratikkamble-dev) | [GitHub](https://github.com/pratikkamble-dev)
 
----
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
